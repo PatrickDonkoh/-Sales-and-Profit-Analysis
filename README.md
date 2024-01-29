@@ -3,4 +3,4 @@
 
 
  
-*[CLICK TO OPEN THE PROJECT](Store-Sales-and-Profit-Analysis.IPYNB)*
+**[CLICK TO OPEN THE PROJECT](Store-Sales-and-Profit-Analysis.IPYNB)**
